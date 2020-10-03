@@ -1,0 +1,49 @@
+
+.screen1{
+    background-color: #fff;
+    /* color: #2F5ABB; */
+    color: #1f1f1f;
+    width: 100%;
+    padding: 2%;
+    border-radius: 1rem;
+    /* border: 1px solid #2F5ABB; */
+}
+
+
+.screen1-img{
+    height: 490px;
+}
+
+@media screen and (max-width: 768px){
+    .screen1-img{
+        height: 280px;
+    }    
+ }
+
+ 
+@media screen and (min-width: 993px){
+    .screen1-img{
+        height: 480px;
+    }    
+ }
+
+
+
+
+.btn-skip, .btn-skip:hover{
+    color: #2F5ABB;
+    outline: none;
+    box-shadow: none;
+}
+
+.btn-next, .btn-next:hover{
+    color: #2F5ABB;
+    outline: none;
+    box-shadow: none;
+}
+
+.btn-back, .btn-back:hover{
+    color: #2F5ABB;
+    outline: none;
+    box-shadow: none;
+}

@@ -1,0 +1,16 @@
+
+
+.App {
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+}
+
+
+.section__text{
+  color: #2F5ABB;
+  font-family: 'Pacifico', cursive;
+}
+
+.section__text_p{
+  color: #1f1f1f;
+}
